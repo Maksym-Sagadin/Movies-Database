@@ -1,0 +1,214 @@
+[
+   {
+      "title": " Terminator: Dark Fate ",
+      "link": "https://www.imdb.com/title/tt6450804/",
+      "rating": "R",
+      "length": "128",
+      "genre": [
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ]
+   },
+   {
+      "title": " The Irishman ",
+      "link": "https://www.imdb.com/title/tt1302006/",
+      "rating": "R",
+      "length": "209",
+      "genre": [
+         "Biography",
+         "Crime",
+         "Drama",
+         "History",
+         "Thriller"
+      ]
+   },
+   {
+      "title": " Harriet ",
+      "link": "https://www.imdb.com/title/tt4648786/",
+      "rating": "PG-13",
+      "length": "125",
+      "genre": [
+         "Action",
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "title": " Motherless Brooklyn ",
+      "link": "https://www.imdb.com/title/tt0385887/",
+      "rating": "R",
+      "length": "144",
+      "genre": [
+         "Crime",
+         "Drama"
+      ]
+   },
+   {
+      "title": " Arctic Dogs ",
+      "link": "https://www.imdb.com/title/tt4426464/",
+      "rating": "PG",
+      "length": "92 ",
+      "genre": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family"
+      ]
+   },
+   {
+      "title": " Inside Game ",
+      "link": "https://www.imdb.com/title/tt8591260/",
+      "rating": "R",
+      "length": "97 ",
+      "genre": [
+         "Drama"
+      ]
+   },
+   {
+      "title": " The Portal ",
+      "link": "https://www.imdb.com/title/tt10613418/",
+      "rating": null,
+      "length": "88 ",
+      "genre": [
+         "Documentary"
+      ]
+   },
+   {
+      "title": " Joker ",
+      "link": "https://www.imdb.com/title/tt7286456/",
+      "rating": "R",
+      "length": "122",
+      "genre": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "title": " Maleficent: Mistress of Evil ",
+      "link": "https://www.imdb.com/title/tt4777008/",
+      "rating": "PG",
+      "length": "119",
+      "genre": [
+         "Adventure",
+         "Family",
+         "Fantasy"
+      ]
+   },
+   {
+      "title": " The Addams Family ",
+      "link": "https://www.imdb.com/title/tt1620981/",
+      "rating": "PG",
+      "length": "86 ",
+      "genre": [
+         "Animation",
+         "Comedy",
+         "Family",
+         "Fantasy",
+         "Horror"
+      ]
+   },
+   {
+      "title": " Zombieland: Double Tap ",
+      "link": "https://www.imdb.com/title/tt1560220/",
+      "rating": "R",
+      "length": "99 ",
+      "genre": [
+         "Action",
+         "Comedy",
+         "Horror"
+      ]
+   },
+   {
+      "title": " Countdown ",
+      "link": "https://www.imdb.com/title/tt10039344/",
+      "rating": "PG-13",
+      "length": "90 ",
+      "genre": [
+         "Horror",
+         "Thriller"
+      ]
+   },
+   {
+      "title": " Black and Blue ",
+      "link": "https://www.imdb.com/title/tt7390646/",
+      "rating": "R",
+      "length": "108",
+      "genre": [
+         "Action",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ]
+   },
+   {
+      "title": " Gemini Man ",
+      "link": "https://www.imdb.com/title/tt1025100/",
+      "rating": "PG-13",
+      "length": "117",
+      "genre": [
+         "Action",
+         "Drama",
+         "Sci-Fi",
+         "Thriller"
+      ]
+   },
+   {
+      "title": " The Lighthouse ",
+      "link": "https://www.imdb.com/title/tt7984734/",
+      "rating": "R",
+      "length": "109",
+      "genre": [
+         "Drama",
+         "Fantasy",
+         "Horror",
+         "Mystery"
+      ]
+   },
+   {
+      "title": " The Current War ",
+      "link": "https://www.imdb.com/title/tt2140507/",
+      "rating": "PG-13",
+      "length": "102",
+      "genre": [
+         "Biography",
+         "Drama",
+         "History"
+      ]
+   },
+   {
+      "title": " Abominable ",
+      "link": "https://www.imdb.com/title/tt6324278/",
+      "rating": "PG",
+      "length": "97 ",
+      "genre": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ]
+   },
+   {
+      "max_genres_in_a_movie": 5,
+      "types_of_genres": [
+         "Action",
+         "Adventure",
+         "Sci-Fi",
+         "Biography",
+         "Crime",
+         "Drama",
+         "History",
+         "Thriller",
+         "Animation",
+         "Comedy",
+         "Family",
+         "Documentary",
+         "Fantasy",
+         "Horror",
+         "Mystery"
+      ]
+   }
+]
